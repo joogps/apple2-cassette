@@ -5,6 +5,12 @@ cable from a Mac's headphone jack. Python scripts generate cassette-tape WAV
 files in the Applesoft `LOAD` format, and a live Mac-to-Apple II screen mirror
 streams lo-res frames over the same cable.
 
+![The Apple II drawing "hello" as the tape plays from the Mac](media/demo.gif)
+
+[Full video (MP4)](media/demo.mp4)
+
+![Apple II with Disk II drives, connected to a MacBook by an audio cable](media/setup.jpg)
+
 ## Requirements
 
 Python 3 and:
